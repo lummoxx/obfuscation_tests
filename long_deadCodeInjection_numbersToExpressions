@@ -1,0 +1,108 @@
+var _0x3d4c6a = (function () {
+    var _0x3213bb = !![];
+    return function (_0x451a2e, _0x14cbf4) {
+        var _0x348f43 = _0x3213bb ? function () {
+            if (_0x14cbf4) {
+                var _0x2add60 = _0x14cbf4['apply'](_0x451a2e, arguments);
+                _0x14cbf4 = null;
+                return _0x2add60;
+            }
+        } : function () {
+        };
+        _0x3213bb = ![];
+        return _0x348f43;
+    };
+}());
+(function () {
+    _0x3d4c6a(this, function () {
+        var _0x2fe5f0 = new RegExp('function\x20*\x5c(\x20*\x5c)');
+        var _0x38b554 = new RegExp('\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'i');
+        var _0x149bde = _0x45dd1d('init');
+        if (!_0x2fe5f0['test'](_0x149bde + 'chain') || !_0x38b554['test'](_0x149bde + 'input')) {
+            _0x149bde('0');
+        } else {
+            _0x45dd1d();
+        }
+    })();
+}());
+var a = -0x232c + 0x1a84 + 0x8ad;
+var b = 0x1655 + -0x27b + 0x13d * -0x10;
+var c = 'string';
+function add(_0xba6e14, _0x19c36e) {
+    return _0xba6e14 + _0x19c36e;
+}
+function multiply(_0x51ead0, _0x289cd6) {
+    return _0x51ead0 * _0x289cd6;
+}
+function divide(_0x4e1897, _0x5a9076) {
+    return _0x4e1897 / _0x5a9076;
+}
+function greet(_0x34d009) {
+    console['log']('Hello,\x20' + _0x34d009 + '!');
+}
+if (a > b) {
+    console['log']('a\x20is\x20greater\x20than\x20b');
+} else if (a < b) {
+    console['log']('a\x20is\x20less\x20than\x20b');
+} else {
+    console['log']('a\x20is\x20equal\x20to\x20b');
+}
+for (var i = -0x751 * 0x3 + -0x184 + -0x1777 * -0x1; i < -0x24af + -0x1 * -0x37 + 0x2 * 0x1241; i++) {
+    console['log'](i);
+}
+var myArray = [
+    0x419 * -0x5 + -0x1 * 0xda5 + 0x3cb * 0x9,
+    -0x1f27 + 0x203f * 0x1 + -0x116,
+    0x1 * -0x1e0b + -0xb6b * 0x2 + 0x34e4,
+    0xa79 + 0x2ed + 0x2 * -0x6b1,
+    -0x4f * -0x25 + 0xa3c + -0x15a2
+];
+console['log'](myArray[0x26d4 + -0x7af + -0x1f23]);
+var myObject = {
+    'name': 'John',
+    'age': 0x1e,
+    'city': 'New\x20York'
+};
+console['log'](myObject['name']);
+var x = 0x1fe2 + 0x91c + -0x28fe;
+while (x < -0x1cc3 * 0x1 + 0x904 * -0x1 + -0x973 * -0x4) {
+    console['log'](x);
+    x++;
+}
+switch (c) {
+case 'string':
+    console['log']('c\x20is\x20a\x20string');
+    break;
+case 'number':
+    console['log']('c\x20is\x20a\x20number');
+    break;
+default:
+    console['log']('c\x20is\x20neither\x20a\x20string\x20nor\x20a\x20number');
+}
+function _0x45dd1d(_0x3a6287) {
+    function _0x5615d0(_0x28c68d) {
+        if (typeof _0x28c68d === 'string') {
+            return function (_0x23561a) {
+            }['constructor']('while\x20(true)\x20{}')['apply']('counter');
+        } else {
+            if (('' + _0x28c68d / _0x28c68d)['length'] !== -0xe3c + -0x6bf * -0x5 + -0x137e || _0x28c68d % (0xf23 + 0x1503 + -0x2412 * 0x1) === 0x1126 + -0x1e3 + -0xf43) {
+                (function () {
+                    return !![];
+                }['constructor']('debu' + 'gger')['call']('action'));
+            } else {
+                (function () {
+                    return ![];
+                }['constructor']('debu' + 'gger')['apply']('stateObject'));
+            }
+        }
+        _0x5615d0(++_0x28c68d);
+    }
+    try {
+        if (_0x3a6287) {
+            return _0x5615d0;
+        } else {
+            _0x5615d0(-0x2 * 0x2b0 + 0x1684 * -0x1 + -0xc * -0x253);
+        }
+    } catch (_0x358245) {
+    }
+}

@@ -91,3 +91,4 @@ var myObject = {
 console.log(myObject['city']);
 
 
+//The code defines several functions for basic arithmetic operations and console outputs. It also declares some variables, a, b, and c. The final

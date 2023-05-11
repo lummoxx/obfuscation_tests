@@ -238,4 +238,13 @@ switch (_0x1c2d78) {
         console[_0x82273a(0xd1)]('c\x20is\x20neither\x20a\x20string\x20nor\x20a\x20number');
 }
 
-// In this code, the _0x5be4f1 function logs a message with the input parameter. The subsequent if-else statement compares the values of _0x65870d and _0x11ce42 and logs a corresponding message. The for loop logs numbers from 0 to 9. The _0x2fb6a0 array is defined with values 1 to 5, and the code logs the value at index 2. The _0x12d388 object has properties name, _0x47085b, and city, and the code logs the value of the name property. The while loop logs numbers from 0 to 4. Finally, the switch statement checks the value of _0x1c2d78 and logs messages based on the case.
+// In this code, the _0x5be4f1 function logs a message with the 
+// input parameter. The subsequent if-else statement compares the 
+// values of _0x65870d and _0x11ce42 and logs a corresponding 
+// message. The for loop logs numbers from 0 to 9. The _0x2fb6a0 
+/*array is defined with values 1 to 5, and the code logs the value at
+ index 2. The _0x12d388 object has properties name, _0x47085b, 
+ and city, and the code logs the value of the name property. 
+ The while loop logs numbers from 0 to 4. Finally, the switch
+  statement checks the value of _0x1c2d78 and logs messages 
+  based on the case.*/

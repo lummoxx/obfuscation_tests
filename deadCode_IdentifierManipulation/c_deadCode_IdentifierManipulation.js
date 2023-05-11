@@ -1,7 +1,7 @@
 //The provided code is a mix of obfuscated and unobfuscated code. 
 // The obfuscation technique used is variable name mangling, 
 // where variable names are replaced with randomly generated names. 
-//Here's the deobfuscated code:
+// Here's the deobfuscated code:
 
 function main() {
   var a = 5;

@@ -1,4 +1,6 @@
-The given code is obfuscated and difficult to understand. However, I can help explain its functionality and make it more readable. Here's the deobfuscated version of the code:
+The given code is obfuscated and difficult to understand. However, 
+I can help explain its functionality and make it more readable. 
+Here's the deobfuscated version of the code:
 
 javascript
 
@@ -110,4 +112,6 @@ function _0x476fc9(_0x243921) {
   _0x49c8f.setInterval(_0x476fc9, 2000);
 })();
 
-I've replaced the obfuscated variable names with meaningful names to improve readability. The code includes variable declarations, function definitions
+I've replaced the obfuscated variable names with meaningful names 
+to improve readability. The code includes variable declarations, 
+function definitions

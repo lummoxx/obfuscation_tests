@@ -74,4 +74,83 @@ console.log(myArray[-0x1 * 0x1706 + -0x49 * 0x3 + -0x4c7 * 0x5]);
     It uses a while loop to log the value of the variable x until a specified condition is met.
     It uses a switch statement to check the value of c and logs a corresponding message based on the value.
 
-In summary, the code demonstrates basic JavaScript operations, including variable initialization, arithmetic calculations, function definitions, control flow statements (if, for, while, and switch), array manipulation, and object usage. */
+In summary, the code demonstrates basic JavaScript operations, 
+including variable initialization, arithmetic calculations, 
+function definitions, control flow statements (if, for, while, and switch), 
+array manipulation, and object usage. */
+
+
+var a = 0x714 * 4 + -0x1c17 - 0xd * 4;
+var b = 0x4f * -0x24 + 0xd3a - 0x214;
+var c = 'string';
+
+function add(x, y) {
+  return x + y;
+}
+
+function multiply(x, y) {
+  return x * y;
+}
+
+function divide(x, y) {
+  return x / y;
+}
+
+function greet(name) {
+  console.log('Hello, ' + name + '!');
+}
+
+if (a > b) {
+  console.log('a is greater than b');
+} else if (a < b) {
+  console.log('a is less than b');
+} else {
+  console.log('a is equal to b');
+}
+
+for (var i = 0xb * -0x7f + 0x11f5 - 0x20 * 0x64; i < 0x4 * 0x98f - 0x19 * 0x177 + 0xd * -0x1f; i++) {
+  console.log(i);
+}
+
+var myArray = [
+  -0x2255 - 0x765 * 4 + 0x1ff5 * 2,
+  0xf26 - 0x652 - 0x8d2,
+  0x194d + 0x65 * -0x33 - 0x52b,
+  -0x2 * 0x2da - 0x5ab - 0xb * -0x109,
+  0xb4 * -0x32 + 0x2 * -0xc07 + 0x101 * 0x3b
+];
+
+console.log(myArray[0]);
+
+var myObject = {
+  'name': 'John',
+  'age': 30,
+  'city': 'New York'
+};
+
+console.log(myObject['name']);
+
+var x = 0x127 * -5 - 0x206b + 0x262e;
+
+while (x < 0x93 * 0x13 - 0xcc - 0x286 * 0x4) {
+  console.log(x);
+  x++;
+}
+
+switch (c) {
+  case 'string':
+    console.log('c is a string');
+    break;
+  case 'number':
+    console.log('c is a number');
+    break;
+  default:
+    console.log('c is neither a string nor a number');
+}
+/*
+Note: the obfuscation here is quite simple, 
+mainly using hexadecimal notation for numbers 
+and obfuscating variable names. A simple run of
+ the code would be enough to determine the 
+ variables and functions and deobfuscate the code.
+ */
